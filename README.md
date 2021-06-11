@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dim6ata
+- 👋 Hi, I’m @dim6ata and this is my development portfolio page. 
 - 👀 I’m interested in programming, music and art.
 - 🌱 I’m currently honing my Java skills in order to get my first job as a developer. Additionally, I am researching music related tech.
 - 💞️ I’m looking to collaborate on creative projects that aid artistic needs, by using established or experimental technologies. 
